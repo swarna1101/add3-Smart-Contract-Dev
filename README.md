@@ -104,8 +104,8 @@ In this example, only the owner account can trigger call `pause` and `unpause` m
 With this repository you can compile, run tests and deploy the ERC-20 smart contract using Hardhat, Truffle or Foundry.
 
 - [Node.js](https://nodejs.org/download/release/latest-v12.x/): `12.0.0`
-- [Hardhat](https://hardhat.org/): `v2.9.9`
-- [Truffle](https://www.trufflesuite.com/truffle): `v5.5.19`
+- [Hardhat](https://hardhat.org/): `v2.17.0`
+- [Truffle](https://www.trufflesuite.com/truffle): `v5.11.0`
 - [Foundry](https://getfoundry.sh/)
 
 ### Clone and Install
